@@ -1,0 +1,87 @@
+Sample	Patient	Type	BatchId	BCR	TSS	PlateId	AliquotCenter	ShipDate	SourceCenter
+HCM-BROD-0002-C71-01A-01R-A769-41	HCM-BROD-0002-C71	Primary Tumor	635.0.0	Nationwide Children's Hospital	BROD	A769	41	2018-08-22	23
+HCM-BROD-0002-C71-85A-01R-A769-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0002-C71-86A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0003-C71-01A-01R-A77F-41	HCM-BROD-0003-C71	Primary Tumor	647.0.0	Nationwide Children's Hospital	BROD	A77F	41	2019-01-30	23
+HCM-BROD-0003-C71-85B-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0003-C71-86A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0005-C41-06A-11R-A787-41	HCM-BROD-0005-C41	Metastatic	657.0.0	Nationwide Children's Hospital	BROD	A787	41	2019-05-15	23
+HCM-BROD-0005-C41-85A-01R-A787-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0011-C71-01A-01R-A78P-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0011-C71-85A-01R-A769-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0012-C71-01A-01R-A769-41	HCM-BROD-0012-C71	Primary Tumor	635.0.0	Nationwide Children's Hospital	BROD	A769	41	2018-08-22	23
+HCM-BROD-0012-C71-85A-01R-A769-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0012-C71-86A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0014-C71-01A-01R-A77F-41	HCM-BROD-0014-C71	Primary Tumor	647.0.0	Nationwide Children's Hospital	BROD	A77F	41	2019-01-30	23
+HCM-BROD-0014-C71-85B-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0027-C34-06A-11R-A787-41	HCM-BROD-0027-C34	Metastatic	657.0.0	Nationwide Children's Hospital	BROD	A787	41	2019-05-15	23
+HCM-BROD-0027-C34-85A-01R-A787-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0028-C71-01A-01R-A77F-41	HCM-BROD-0028-C71	Primary Tumor	647.0.0	Nationwide Children's Hospital	BROD	A77F	41	2019-01-30	23
+HCM-BROD-0028-C71-85A-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0036-C41-06A-01R-A787-41	HCM-BROD-0036-C41	Metastatic	657.0.0	Nationwide Children's Hospital	BROD	A787	41	2019-05-15	23
+HCM-BROD-0036-C41-85A-01R-A787-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0047-C71-02A-01R-A78H-41	HCM-BROD-0047-C71	Recurrent Tumor	647.0.0	Nationwide Children's Hospital	BROD	A78H	41	2019-08-07	23
+HCM-BROD-0047-C71-85B-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0047-C71-86A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0100-C15-01A-11R-A787-41	HCM-BROD-0100-C15	Primary Tumor	657.0.0	Nationwide Children's Hospital	BROD	A787	41	2019-05-15	23
+HCM-BROD-0100-C15-85A-01R-A787-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-BROD-0235-C16-06A-01R-A79D-41	HCM-BROD-0235-C16	Metastatic	666.0.0	Nationwide Children's Hospital	BROD	A79D	41	2019-12-18	23
+HCM-BROD-0235-C16-85B-01R-A79D-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0056-C18-01B-01R-A78I-41	HCM-CSHL-0056-C18	Primary Tumor	659.0.0	Nationwide Children's Hospital	CSHL	A78I	41	2019-08-07	23
+HCM-CSHL-0056-C18-85B-01R-A78I-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0057-C18-01B-01R-A788-41	HCM-CSHL-0057-C18	Primary Tumor	657.0.0	Nationwide Children's Hospital	CSHL	A788	41	2019-05-15	23
+HCM-CSHL-0057-C18-85B-01R-A787-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0058-C34-01B-01R-A79E-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0058-C34-85C-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0058-C34-86A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0060-C18-01B-01R-A77G-41	HCM-CSHL-0060-C18	Primary Tumor	647.0.0	Nationwide Children's Hospital	CSHL_HCM	A77G	41	2019-01-30	23
+HCM-CSHL-0060-C18-85A-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0061-C18-01A-01R-A769-41	HCM-CSHL-0061-C18	Primary Tumor	635.0.0	Nationwide Children's Hospital	CSHL	A769	41	2018-08-22	23
+HCM-CSHL-0061-C18-85A-01R-A769-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0062-C18-01A-01R-A769-41	HCM-CSHL-0062-C18	Primary Tumor	635.0.0	Nationwide Children's Hospital	CSHL	A769	41	2018-08-22	23
+HCM-CSHL-0062-C18-85A-01R-A769-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0063-C18-01A-01R-A78P-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0063-C18-85A-01R-A769-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0064-C18-01A-01R-A78P-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0064-C18-85A-01R-A769-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0064-C18-86A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0065-C20-06A-01R-A769-41	HCM-CSHL-0065-C20	Metastatic	635.0.0	Nationwide Children's Hospital	CSHL	A769	41	2018-08-22	23
+HCM-CSHL-0065-C20-85A-01R-A769-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0073-C25-01B-21R-A78N-41	HCM-CSHL-0073-C25	Primary Tumor	660.0.0	Nationwide Children's Hospital	CSHL	A78N	41	2019-09-04	23
+HCM-CSHL-0073-C25-85B-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0079-C25-01A-11R-A78N-41	HCM-CSHL-0079-C25	Primary Tumor	660.0.0	Nationwide Children's Hospital	CSHL	A78N	41	2019-09-04	23
+HCM-CSHL-0079-C25-85A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0085-C24-06A-11R-A78N-41	HCM-CSHL-0085-C24	Metastatic	660.0.0	Nationwide Children's Hospital	CSHL	A78N	41	2019-09-04	23
+HCM-CSHL-0085-C24-85A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0085-C24-85M-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0089-C25-01A-11R-A77F-41	HCM-CSHL-0089-C25	Primary Tumor	647.0.0	Nationwide Children's Hospital	CSHL_HCM_ARCNET	A77F	41	2019-01-30	23
+HCM-CSHL-0089-C25-06A-11R-A78V-41	HCM-CSHL-0089-C25	Metastatic	647.0.0	Nationwide Children's Hospital	CSHL_HCM_ARCNET	A78V	41	2019-10-02	23
+HCM-CSHL-0089-C25-85A-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0089-C25-85M-01R-A78V-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0090-C25-01A-11R-A77F-41	HCM-CSHL-0090-C25	Primary Tumor	647.0.0	Nationwide Children's Hospital	CSHL_HCM_ARCNET	A77F	41	2019-01-30	23
+HCM-CSHL-0090-C25-85A-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0091-C25-01A-11R-A77F-41	HCM-CSHL-0091-C25	Primary Tumor	647.0.0	Nationwide Children's Hospital	CSHL_HCM_ARCNET	A77F	41	2019-01-30	23
+HCM-CSHL-0091-C25-85A-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0092-C25-01A-21R-A787-41	HCM-CSHL-0092-C25	Primary Tumor	657.0.0	Nationwide Children's Hospital	CSHL	A787	41	2019-05-15	23
+HCM-CSHL-0092-C25-85A-01R-A787-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0093-C25-85A-01R-A78V-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0094-C25-01A-21R-A78N-41	HCM-CSHL-0094-C25	Primary Tumor	660.0.0	Nationwide Children's Hospital	CSHL	A78N	41	2019-09-04	23
+HCM-CSHL-0094-C25-85A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0094-C25-86A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0142-C18-01A-11R-A77F-41	HCM-CSHL-0142-C18	Primary Tumor	647.0.0	Nationwide Children's Hospital	CSHL_HCM	A77F	41	2019-01-30	23
+HCM-CSHL-0142-C18-85A-01R-A78H-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0143-C20-01A-11R-A77F-41	HCM-CSHL-0143-C20	Primary Tumor	647.0.0	Nationwide Children's Hospital	CSHL_HCM	A77F	41	2019-01-30	23
+HCM-CSHL-0143-C20-85A-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0147-C24-01A-11R-A77F-41	HCM-CSHL-0147-C24	Primary Tumor	647.0.0	Nationwide Children's Hospital	CSHL_HCM	A77F	41	2019-01-30	23
+HCM-CSHL-0147-C24-85A-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0158-C20-01A-21R-A77F-41	HCM-CSHL-0158-C20	Primary Tumor	647.0.0	Nationwide Children's Hospital	CSHL_HCM	A77F	41	2019-01-30	23
+HCM-CSHL-0158-C20-85A-01R-A77F-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0174-C22-01A-11R-A78N-41	HCM-CSHL-0174-C22	Primary Tumor	660.0.0	Nationwide Children's Hospital	CSHL	A78N	41	2019-09-04	23
+HCM-CSHL-0174-C22-85A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0238-C18-01B-01R-A78O-41	HCM-CSHL-0238-C18	Primary Tumor	660.0.0	Nationwide Children's Hospital	CSHL	A78O	41	2019-09-04	23
+HCM-CSHL-0238-C18-85A-01R-A78N-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0248-C19-01A-11R-A78V-41	HCM-CSHL-0248-C19	Primary Tumor	661.0.0	Nationwide Children's Hospital	CSHL	A78V	41	2019-10-02	23
+HCM-CSHL-0248-C19-85A-01R-A78V-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0366-C50-85B-01R-A78I-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0459-C17-85A-01R-A79D-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+HCM-CSHL-0461-D12-85P-01R-A78V-41	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown

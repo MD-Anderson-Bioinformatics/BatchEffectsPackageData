@@ -1,0 +1,24 @@
+key	value
+title	Test
+method	Error in solve.default(R %*% t(R), tol = 1e-18): system is computationally singular: reciprocal condition number = 5.36867e-21
+pvalue	NA
+Residuals	0.778617744351845
+Gender	0.0148322883704905
+Intervention	0.0302884296331038
+Progressor	0.0114395368257789
+Race	0.029049448053498
+Gender:Intervention	0.0137500927299299
+Gender:Progressor	0.0133609932244306
+Intervention:Progressor	0.0392730143865512
+Gender:Race	0.00673356105662024
+Intervention:Race	0.0257701066617405
+Progressor:Race	0.0136345480822127
+Gender:Intervention:Race	0.0232502366237993
+Gender:Intervention:Progressor	0
+Gender:Progressor:Race	0
+Intervention:Progressor:Race	0
+Gender:Intervention:Progressor:Race	0
+labels	Residuals (77.9%)==|==Gender (7.2%)==|==Intervention (13.2%)==|==Progressor (7.8%)==|==Race (9.8%)
+version	MBatch Version: BEA_VERSION_TIMESTAMP
+colornames	Residuals==|==Gender==|==Intervention==|==Progressor==|==Race==|==Gender:Intervention==|==Gender:Progressor==|==Intervention:Progressor==|==Gender:Race==|==Intervention:Race==|==Progressor:Race==|==Gender:Intervention:Race==|==Gender:Intervention:Progressor==|==Gender:Progressor:Race==|==Intervention:Progressor:Race==|==Gender:Intervention:Progressor:Race
+colors	#CC00FF,#FF0000,#CCFF00,#00FF66,#0066FF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

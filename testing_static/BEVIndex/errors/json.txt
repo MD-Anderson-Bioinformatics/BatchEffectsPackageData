@@ -1,0 +1,174 @@
+{
+  "SourceID": "SOURCE_ID",
+  "source": "unknown - user data",
+  "variant": "unknown - user data",
+  "project": "unknown - user data",
+  "subProject": "unknown - user data",
+  "category": "unknown - user data",
+  "platform": "unknown - user data",
+  "data": "unknown - user data",
+  "algorithm": "unknown - user data",
+  "details": "unknown - user data",
+  "version": "unknown - user data",
+  "mbatch": {
+    "MBatchID": "MBATCH_ID",
+    "mbatch_run": "VERSION_STAMP",
+    "dataset_type": "VERSION_TYPE",
+    "matrix": "",
+    "batchdata": "",
+    "dropdown_label": "Algorithm",
+    "dropdown_entries": [
+      {
+        "entry_label": "Boxplot",
+        "dropdown_label": "Diagram Type",
+        "dropdown_entries": [
+          {
+            "entry_label": "AllSample-Data",
+            "dropdown_label": "Batch Type",
+            "dropdown_entries": [
+              {
+                "entry_label": "error.log",
+                "diagram_type": "boxplot",
+                "diagram_image": "/BoxPlot/AllSample-Data/BoxPlot_AllSample-Data_Diagram-NA.png",
+                "box_annotations": "/BoxPlot/AllSample-Data/BoxPlot_AllSample-Data_Annotations-NA.tsv",
+                "box_data": "/BoxPlot/AllSample-Data/BoxPlot_AllSample-Data_BoxData-NA.tsv",
+                "box_histogram": "/BoxPlot/AllSample-Data/BoxPlot_AllSample-Data_Histogram-NA.tsv"
+              }
+            ]
+          },
+          {
+            "entry_label": "AllSample-RLE",
+            "dropdown_label": "Batch Type",
+            "dropdown_entries": [
+              {
+                "entry_label": "error.log",
+                "diagram_type": "boxplot",
+                "diagram_image": "/BoxPlot/AllSample-RLE/BoxPlot_AllSample-RLE_Diagram-NA.png",
+                "box_annotations": "/BoxPlot/AllSample-RLE/BoxPlot_AllSample-RLE_Annotations-NA.tsv",
+                "box_data": "/BoxPlot/AllSample-RLE/BoxPlot_AllSample-RLE_BoxData-NA.tsv",
+                "box_histogram": "/BoxPlot/AllSample-RLE/BoxPlot_AllSample-RLE_Histogram-NA.tsv"
+              }
+            ]
+          },
+          {
+            "entry_label": "Group-Mean",
+            "dropdown_label": "Batch Type",
+            "dropdown_entries": [
+              {
+                "entry_label": "error.log",
+                "diagram_type": "boxplot",
+                "diagram_image": "/BoxPlot/Group-Mean/BoxPlot_Group-Mean_Diagram-NA.png",
+                "box_annotations": "/BoxPlot/Group-Mean/BoxPlot_Group-Mean_Annotations-NA.tsv",
+                "box_data": "/BoxPlot/Group-Mean/BoxPlot_Group-Mean_BoxData-NA.tsv",
+                "box_histogram": "/BoxPlot/Group-Mean/BoxPlot_Group-Mean_Histogram-NA.tsv"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "entry_label": "Correlation Density Plot",
+        "diagram_type": "cdp",
+        "diagram_image": "/CDP/CDP_Plot_Data1_Diagram.PNG"
+      },
+      {
+        "entry_label": "Dispersion Separability Criterion",
+        "diagram_type": "DSC",
+        "dsc_values": "DSCOverview.tsv"
+      },
+      {
+        "entry_label": "Hierarchical Clustering",
+        "diagram_type": "hc",
+        "diagram_image": "/HierarchicalClustering/HierarchicalClustering_Diagram.png",
+        "legend_image": "/HierarchicalClustering/HierarchicalClustering_Legend-ALL.png",
+        "hc_data": "/HierarchicalClustering/HCData.tsv",
+        "hc_order": "/HierarchicalClustering/HCOrder.tsv"
+      },
+      {
+        "entry_label": "Kruskal-Wallis / Dunn\u0027s Test",
+        "dropdown_label": "Batch Type",
+        "dropdown_entries": [
+          {
+            "entry_label": "BatchId",
+            "diagram_type": "discrete",
+            "diagram_image": "/Discrete/BatchId/KW_Dunns_Diagram.PNG",
+            "kwd_kwddata": "/Discrete/BatchId/KW_Dunns_Diagram.tsv"
+          },
+          {
+            "entry_label": "ShipDate",
+            "diagram_type": "discrete",
+            "diagram_image": "/Discrete/ShipDate/KW_Dunns_Diagram.PNG",
+            "kwd_kwddata": "/Discrete/ShipDate/KW_Dunns_Diagram.tsv"
+          },
+          {
+            "entry_label": "TSS",
+            "diagram_type": "discrete",
+            "diagram_image": "/Discrete/TSS/KW_Dunns_Diagram.PNG",
+            "kwd_kwddata": "/Discrete/TSS/KW_Dunns_Diagram.tsv"
+          }
+        ]
+      },
+      {
+        "entry_label": "NGCHM",
+        "dropdown_label": "Batch Type",
+        "dropdown_entries": [
+          {
+            "entry_label": "Error",
+            "diagram_type": "ngchm",
+            "ngchm": "/NGCHM/error_ngchm.ngchm.html"
+          }
+        ]
+      },
+      {
+        "entry_label": "PCA+",
+        "dropdown_label": "Batch Type",
+        "dropdown_entries": [
+          {
+            "entry_label": "BatchId",
+            "diagram_type": "pca",
+            "pca_annotations": "/PCA/BatchId/ManyToMany/PCAAnnotations.tsv",
+            "pca_values": "/PCA/BatchId/ManyToMany/PCAValues.tsv"
+          },
+          {
+            "entry_label": "ShipDate",
+            "diagram_type": "pca",
+            "pca_annotations": "/PCA/ShipDate/ManyToMany/PCAAnnotations.tsv",
+            "pca_values": "/PCA/ShipDate/ManyToMany/PCAValues.tsv"
+          },
+          {
+            "entry_label": "TSS",
+            "diagram_type": "pca",
+            "pca_annotations": "/PCA/TSS/ManyToMany/PCAAnnotations.tsv",
+            "pca_values": "/PCA/TSS/ManyToMany/PCAValues.tsv"
+          }
+        ]
+      },
+      {
+        "entry_label": "Supervised Clustering",
+        "dropdown_label": "Batch Type",
+        "dropdown_entries": [
+          {
+            "entry_label": "Error",
+            "diagram_type": "ngchm",
+            "diagram_image": "/SupervisedClustering/Batches/SupervisedClust_Diagram-Error.png",
+            "legend_image": "/SupervisedClustering/Batches/SupervisedClust_Legend-Error.png",
+            "ngchm": "/SupervisedClustering/Batches/Error_ngchm.ngchm.html"
+          }
+        ]
+      },
+      {
+        "entry_label": "UMAP",
+        "dropdown_label": "Batch Type",
+        "dropdown_entries": [
+          {
+            "entry_label": "error.log",
+            "diagram_type": "umap",
+            "umap_batches": "/UMAP/error.log/UMAP_Data-batc.tsv",
+            "umap_umapdat": "/UMAP/error.log/UMAP_Data-umap.tsv"
+          }
+        ]
+      }
+    ]
+  },
+  "notice": ""
+}

@@ -1,0 +1,16 @@
+key	value
+title	Test
+method	Shapiro-Wilk normality test
+pvalue	<0.0005
+Residuals	0.73286596746068
+Type	0.127490358799937
+BatchId	0.0331990448442522
+TSS	0.0295698212473222
+Type:BatchId	0.0107323188041473
+Type:TSS	0.00643794589567752
+BatchId:TSS	0.0551796537159235
+Type:BatchId:TSS	0.00452488923206235
+labels	Residuals (73.3%)==|==Type (14.9%)==|==BatchId (10.4%)==|==TSS (9.6%)
+version	MBatch Version: BEA_VERSION_TIMESTAMP
+colornames	Residuals==|==Type==|==BatchId==|==TSS==|==Type:BatchId==|==Type:TSS==|==BatchId:TSS==|==Type:BatchId:TSS
+colors	#80FF00,#8000FF,#FF0000,#00FFFF,NA,NA,NA,NA

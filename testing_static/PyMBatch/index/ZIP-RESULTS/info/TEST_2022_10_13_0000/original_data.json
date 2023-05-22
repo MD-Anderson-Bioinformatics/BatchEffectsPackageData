@@ -1,0 +1,12 @@
+{
+  "source": "GDC",
+  "variant": "current",
+  "project": "TCGA",
+  "subProject": "TCGA-UVM",
+  "category": "Protein Expression Quantification",
+  "platform": "RPPA",
+  "data": "standardized",
+  "algorithm": "continuous",
+  "details": "",
+  "version": "2021_10_18_0910"
+}

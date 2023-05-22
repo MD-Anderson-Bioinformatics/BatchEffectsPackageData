@@ -1,0 +1,43 @@
+jobId	1681218893085
+configDesc	MBatch run on 2023-04-11-0814
+sampleidBatchType	Sample
+batchTypesForMBatchArray	plate_id,ship_date
+mutationsMutbatchFlag	FALSE
+mutBatchMem	16000m
+mutBatchThreads	3
+mutBatchPvalueCutoff	.00001
+mutBatchZscoreCutoff	1.96
+filterMaxValue	8000000
+filterLogTransformFlag	FALSE
+filteringBatchType	null
+filteringBatchesArray	null
+CDP_Flag	TRUE
+selectedBatchToCorrect	batch_id
+selectedCorrection	null
+selectedCorrectionMinBatchSize	3
+selectedDSCPermutations	2000
+selectedDSCThreads	5
+selectedDSCMinBatchSize	3
+selectedDSCSeed	314
+selectedDSCMaxGeneCount	10000
+selectedBoxplotMaxGeneCount	5000
+selectedNgchmFlag	TRUE
+filterLogTransformFlag2	false
+RBN_Only	false
+RBN_UseFirstAsInvariantFlag	FALSE
+RBN_InvariantId	null
+RBN_VariantId	null
+RBN_Matched	null
+RBN_InvariantRepsType	null
+RBN_VariantRepsType	null
+RBN_InvariantRepsArray	null
+RBN_VariantRepsArray	null
+EBNPlus_GroupId1	null
+EBNPlus_GroupId2	null
+EBNPlus_Seed	null
+EBNPlus_MinSamples	null
+title	CGCI / CGCI-BLGSP / WGS / Gene Level Copy Number / AscatNGS / Copy-Number-No-Sex-Chromosomes / DATA_2022-03-29 / TEST_2022_12_28_1300
+DataVersion	DATA_2022-03-29
+TestVersion	TEST_2022_12_28_1300
+replaceNAs	FALSE
+

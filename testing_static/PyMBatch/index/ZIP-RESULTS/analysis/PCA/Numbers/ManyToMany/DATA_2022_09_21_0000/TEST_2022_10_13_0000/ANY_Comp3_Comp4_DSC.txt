@@ -1,0 +1,14 @@
+First PCA Component:	3
+First Component FVE (%):	4.50792301267286
+Second PCA Component:	4
+Second Component FVE (%):	2.95297269677571
+	
+Disp. Sep. Crit. (DSC) (3,4):	0.191008818412941
+Disp. within groups (Dw) (3,4):	20.9074164856933
+Disp. between groups (Db) (3,4):	3.99350091899953
+DSC pvalue(3,4):	<0.0005
+	
+Disp. Sep. Crit. (DSC):	0.203016922181494
+Disp. within groups (Dw):	76.3687838828792
+Disp. between groups (Db):	15.5041554546458
+DSC pvalue:	<0.0005

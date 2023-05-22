@@ -1,0 +1,3 @@
+[servers]
+inside = /code/SHAIDY/default/inside
+

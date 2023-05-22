@@ -1,0 +1,31 @@
+Type	SubType	Annotation	Value
+Run	-	MBatch Version	2.0.0
+Run	-	DSC Permutations	2000
+Diagram	-	Disp. Sep. Crit. (DSC)	0.203016922181494
+Diagram	-	Disp. within groups (Dw)	76.3687838828792
+Diagram	-	Disp. between groups (Db)	15.5041554546458
+Diagram	-	DSC pvalue	<0.0005
+Component	PC1,PC2	Disp. Sep. Crit. (DSC) (1,2)	0.138755835463128
+Component	PC1,PC2	Disp. within groups (Dw) (1,2)	29.851871452411
+Component	PC1,PC2	Disp. between groups (Db) (1,2)	4.14212136351721
+Component	PC1,PC2	DSC pvalue(1,2)	<0.0005
+Component	PC1,PC3	Disp. Sep. Crit. (DSC) (1,3)	0.193004768743331
+Component	PC1,PC3	Disp. within groups (Dw) (1,3)	27.8025004892373
+Component	PC1,PC3	Disp. between groups (Db) (1,3)	5.3660151774116
+Component	PC1,PC3	DSC pvalue(1,3)	<0.0005
+Component	PC1,PC4	Disp. Sep. Crit. (DSC) (1,4)	0.171296982539185
+Component	PC1,PC4	Disp. within groups (Dw) (1,4)	26.214192816771
+Component	PC1,PC4	Disp. between groups (Db) (1,4)	4.49041212921324
+Component	PC1,PC4	DSC pvalue(1,4)	<0.0005
+Component	PC2,PC3	Disp. Sep. Crit. (DSC) (2,3)	0.142081676250364
+Component	PC2,PC3	Disp. within groups (Dw) (2,3)	25.3193678491914
+Component	PC2,PC3	Disp. between groups (Db) (2,3)	3.59741822561269
+Component	PC2,PC3	DSC pvalue(2,3)	<0.0005
+Component	PC2,PC4	Disp. Sep. Crit. (DSC) (2,4)	0.0881129803675063
+Component	PC2,PC4	Disp. within groups (Dw) (2,4)	23.5642793198407
+Component	PC2,PC4	Disp. between groups (Db) (2,4)	2.07631888108356
+Component	PC2,PC4	DSC pvalue(2,4)	<0.0005
+Component	PC3,PC4	Disp. Sep. Crit. (DSC) (3,4)	0.191008818412941
+Component	PC3,PC4	Disp. within groups (Dw) (3,4)	20.9074164856933
+Component	PC3,PC4	Disp. between groups (Db) (3,4)	3.99350091899953
+Component	PC3,PC4	DSC pvalue(3,4)	<0.0005

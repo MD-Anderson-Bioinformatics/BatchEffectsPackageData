@@ -1,6 +1,5 @@
 sampleidBatchType	Sample
 batchTypesForMBatchArray	BatchId,TSS,ShipDate
-batchTypesForTRINOVA	BatchId,TSS,ShipDate
 mutBatchFlag	FALSE
 mutationsMutbatchFlag	FALSE
 mutBatchMem	4000m
@@ -34,4 +33,7 @@ EBNPlus_GroupId1	null
 EBNPlus_GroupId2	null
 EBNPlus_Seed	null
 EBNPlus_MinSamples	null
-title	MBatchUtils Test Run 
+title	MBatchUtils Test Run
+DataVersion	DATA_2022_09_21_0002
+TestVersion	TEST_2022_10_13_0002
+

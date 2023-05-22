@@ -1,0 +1,45 @@
+jobId	101010101
+configDesc	MBatch Continuous
+sampleidBatchType	Sample
+batchTypesForMBatchArray	Gender,Intervention,Progressor,Race
+ngchmRowType	bio.metabolite.MW.name.|.bio.metabolite.refmet.|.bio.compound.pubchem.|.bio.metabolite.MW.regno.|.bio.metabolite.hmdb.|.bio.compound.kegg.|.bio.compound.chebi.|.bio.compound.metacyc
+ngchmColumnType	bio.metabolite.MW.name
+mutBatchFlag	FALSE
+mutationsMutbatchFlag	FALSE
+mutBatchMem	24000m
+mutBatchThreads	5
+mutBatchPvalueCutoff	.00001
+mutBatchZscoreCutoff	1.96
+filterMaxValue	8000000
+filterLogTransformFlag	FALSE
+filteringBatchType	null
+filteringBatchesArray	null
+CDP_Flag	TRUE
+selectedBatchToCorrect	Gender
+selectedCorrection	null
+selectedCorrectionMinBatchSize	1
+selectedDSCPermutations	500
+selectedDSCThreads	10
+selectedDSCMinBatchSize	5
+selectedDSCSeed	314
+selectedDSCMaxGeneCount	10000
+selectedBoxplotMaxGeneCount	5000
+selectedNgchmFlag	TRUE
+filterLogTransformFlag2	false
+RBN_Only	false
+RBN_UseFirstAsInvariantFlag	FALSE
+RBN_InvariantId	null
+RBN_VariantId	null
+RBN_Matched	null
+RBN_InvariantRepsType	null
+RBN_VariantRepsType	null
+RBN_InvariantRepsArray	null
+RBN_VariantRepsArray	null
+EBNPlus_GroupId1	null
+EBNPlus_GroupId2	null
+EBNPlus_Seed	null
+EBNPlus_MinSamples	null
+title	Batch Effects Run from MBA
+DataVersion	DATA_2022_09_21_0004
+TestVersion	TEST_2022_10_13_0004
+

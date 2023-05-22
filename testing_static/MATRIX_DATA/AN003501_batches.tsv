@@ -1,0 +1,30 @@
+Sample	Genotype	RAW_FILE_NAME	Treatment
+1aCre	wildtype	1aCre_191204_PMet_BZellen.mzML	Crecontrol
+1bCre	wildtype	1bCre_200312_PMet_BZellen.mzML	Crecontrol
+1cCre	wildtype	1cCre_210706_PMet_BZellen.mzML	Crecontrol
+2aCre	wildtype	2aCre_191204_PMet_BZellen.mzML	Crecontrol
+2bCre	wildtype	2bCre_200312_PMet_BZellen.mzML	Crecontrol
+2cCre	wildtype	2cCre_210706_PMet_BZellen.mzML	Crecontrol
+3aDNT	mutant	3aDNT_191204_PMet_BZellen.mzML	DNTwinkle
+3bDNT	mutant	3bDNT_200312_PMet_BZellen.mzML	DNTwinkle
+3cCre	wildtype	3cCre_210706_PMet_BZellen.mzML	Crecontrol
+4aDNT	mutant	4aDNT_191204_PMet_BZellen.mzML	DNTwinkle
+4bDNT	mutant	4bDNT_200312_PMet_BZellen.mzML	DNTwinkle
+4cDNT	mutant	4cDNT_210706_PMet_BZellen.mzML	DNTwinkle
+5cDNT	mutant	5cDNT_210706_PMet_BZellen.mzML	DNTwinkle
+6cDNT	mutant	6cDNT_210706_PMet_BZellen.mzML	DNTwinkle
+B cells_DNT_GPL analysis 1-S01_DNT	mutant	B cells_DNT_GPL analysis 1-S01_DNT.mzML	DNTwinkle
+B cells_DNT_GPL analysis 1-S02_Cre	wildtype	B cells_DNT_GPL analysis 1-S02_Cre.mzML	Crecontrol
+B cells_DNT_GPL analysis 1-S03_DNT	mutant	B cells_DNT_GPL analysis 1-S03_DNT.mzML	DNTwinkle
+B cells_DNT_GPL analysis 1-S04_Cre	wildtype	B cells_DNT_GPL analysis 1-S04_Cre.mzML	Crecontrol
+B cells_DNT_GPL analysis 1-S05_DNT	mutant	B cells_DNT_GPL analysis 1-S05_DNT.mzML	DNTwinkle
+B cells_DNT_GPL analysis 1-S06_Cre	wildtype	B cells_DNT_GPL analysis 1-S06_Cre.mzML	Crecontrol
+B cells_DNT_GPL analysis 2b-S01_Cre1	wildtype	B cells_DNT_GPL analysis 2b-S01_Cre1.mzML	Crecontrol
+B cells_DNT_GPL analysis 2b-S02_DNT2	mutant	B cells_DNT_GPL analysis 2b-S02_DNT2.mzML	DNTwinkle
+B cells_DNT_GPL analysis 2b-S03_Cre3	wildtype	B cells_DNT_GPL analysis 2b-S03_Cre3.mzML	Crecontrol
+B cells_DNT_GPL analysis 2b-S04_DNT4	mutant	B cells_DNT_GPL analysis 2b-S04_DNT4.mzML	DNTwinkle
+B cells_DNT_GPL analysis 2b-S05_Cre5	wildtype	B cells_DNT_GPL analysis 2b-S05_Cre5.mzML	Crecontrol
+B cells_DNT_GPL analysis 2b-S06_DNT6	mutant	B cells_DNT_GPL analysis 2b-S06_DNT6.mzML	DNTwinkle
+B cells_DNT_GPL analysis 2b-S07_Cre7	wildtype	B cells_DNT_GPL analysis 2b-S07_Cre7.mzML	Crecontrol
+B cells_DNT_GPL analysis 2b-S08_DNT8	mutant	B cells_DNT_GPL analysis 2b-S08_DNT8.mzML	DNTwinkle
+B cells_DNT_GPL analysis 2b-S10_DNT10	mutant	B cells_DNT_GPL analysis 2b-S10_DNT10.mzML	DNTwinkle
