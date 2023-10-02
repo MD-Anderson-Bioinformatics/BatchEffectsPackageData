@@ -1,4 +1,4 @@
 serverProtocol=shaidy
 accessMethod=api
-basePath=http://insidebioinfo.mdanderson.edu/dui/api
-serverURL=http://insidebioinfo.mdanderson.edu/dui/viewer
+basePath=http://your.server.com/dui/api
+serverURL=http://your.server.com/dui/viewer

@@ -1,0 +1,10 @@
+{
+    "source": "GDC",
+    "program": "TCGA",
+    "project": "TCGA-GBM",
+    "category": "Reverse Phase Protein Array",
+    "platform": "Protein Expression Quantification",
+    "data": "Protein Analysis",
+    "details": "RPPA",
+    "version": "2021-09-23"
+}
