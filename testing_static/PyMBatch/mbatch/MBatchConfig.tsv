@@ -39,3 +39,4 @@ EBNPlus_MinSamples	null
 title	<title>
 DataVersion	<DataVersion>
 TestVersion	<TestVersion>
+runUpdateOnly	<runUpdateOnly>

@@ -40,4 +40,5 @@ title	CGCI / CGCI-BLGSP / WGS / Gene Level Copy Number / AscatNGS / Copy-Number-
 DataVersion	DATA_2022-03-29
 TestVersion	TEST_2022_12_28_1300
 replaceNAs	FALSE
+runUpdateOnly	FALSE
 

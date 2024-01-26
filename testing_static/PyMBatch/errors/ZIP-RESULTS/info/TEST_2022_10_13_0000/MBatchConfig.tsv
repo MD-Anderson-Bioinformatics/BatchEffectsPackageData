@@ -38,4 +38,5 @@ EBNPlus_Seed	null
 EBNPlus_MinSamples	null
 DataVersion	DATA_2022_09_21_0000
 TestVersion	TEST_2022_10_13_0000
+runUpdateOnly	FALSE
 

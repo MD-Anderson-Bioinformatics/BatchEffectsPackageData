@@ -40,3 +40,4 @@ title	ST000 / 0 / AN000 / 0 / AN000011 / DATA_2023-03-28 / TEST_2023_04_01_0800
 DataVersion	DATA_2023-03-28
 TestVersion	TEST_2023_04_01_0800
 replaceNAs	FALSE
+runUpdateOnly	FALSE

@@ -42,4 +42,5 @@ EBNPlus_MinSamples	null
 title	Batch Effects Run from MBA
 DataVersion	DATA_2022_09_21_0004
 TestVersion	TEST_2022_10_13_0004
+runUpdateOnly	FALSE
 
